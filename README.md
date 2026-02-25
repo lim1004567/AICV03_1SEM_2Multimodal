@@ -1,7 +1,9 @@
 # AICV03 종합 프로젝트
 
-# 🚀Project 1. 2D SEM을 이용한 깊이 예측(3D Metrology) AI 알고리즘 개발
-# 🚀Project 2. Multimodal Transformer(MMT-S) 기반 실시간 장비 진단 및 예보 시스템
+# 🚀Project 1. 
+## 2D SEM을 이용한 깊이 예측(3D Metrology) AI 알고리즘 개발
+# 🚀Project 2. 
+## Multimodal Transformer(MMT-S) 기반 실시간 장비 진단 및 예보 시스템
 
 ## 📖 프로젝트 개요
 
