@@ -1,6 +1,7 @@
 # AICV03 종합 프로젝트
 
-# 🚀Project 2. Multimodal Transformer(MMT-S) 기반 실시간 장비 진단 및 예보 시스템
+# 🚀Project 2. Multimodal Transformer(MMT-S) 
+# 기반 실시간 장비 진단 및 예보 시스템
 
 ## 📖 프로젝트 개요
 
