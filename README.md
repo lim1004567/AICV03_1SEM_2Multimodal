@@ -12,7 +12,7 @@
 본 프로젝트는 반도체 제조 공정의 핵심인 Metrology(계측) 단계를 혁신하기 위한 연구입니다. 고가의 3D 장비 없이도 2D SEM(Scanning Electron Microscope) 이미지만으로 나노 단위의 깊이(Depth Map)를 정밀하게 예측하는 AI 모델을 개발합니다.
 
 # 🚀Project 2.
-## Multimodal Transformer(MMT-S) 기반 실시간 장비 진단 및 예보 시스템
+## Multimodal Transformer(MMT-S) 기반 실시간 이송장치 열화 예지보전
 
 ## 📖 프로젝트 개요
 
