@@ -11,7 +11,7 @@
 
 ## 🛠️ 개발 환경 및 기술 스택
 
-* **하드웨어**: Google Colab (L4 GPU / CPU 환경 벤치마크)
+** **하드웨어**: Google Colab (L4 GPU / CPU 환경 벤치마크)
 * **프레임워크**: PyTorch
 * **모델**: Multimodal Transformer - Small (MMT-S)
 * **핵심 기법**:
