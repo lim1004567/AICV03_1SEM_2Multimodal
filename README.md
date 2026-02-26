@@ -74,9 +74,9 @@ https://www.aihub.or.kr/aihubdata/data/view.do?pageIndex=1&currMenu=115&topMenu=
 
 ### 2. 경량화 성능 (양자화, 지식 증류)
 
-- 양자화
-
 CPU 환경에서도 실시간 추론이 가능한 속도를 확보했습니다.
+
+- 양자화
 
 | 지표 (Metric) | 원본 (FP32) | 양자화 (INT8) | 결과 |
 | --- | --- | --- | --- |
