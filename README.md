@@ -31,6 +31,11 @@
 * **INT8 Post-Training Quantization**: 모델 경량화 및 추론 가속화
 * **Pre-Layer Normalization**: 학습 수렴 안정성 확보
 
+## 사용 데이터셋
+
+AI Hub: 제조현장 이송장치의 열화 예지보전 멀티모달 데이터
+
+https://www.aihub.or.kr/aihubdata/data/view.do?pageIndex=1&currMenu=115&topMenu=100&srchOptnCnd=OPTNCND001&searchKeyword=&srchDetailCnd=DETAILCND001&srchOrder=ORDER001&srchPagePer=20&srchDataRealmCode=REALM012&aihubDataSe=data&dataSetSn=71802
 
 
 ## 🧠 핵심 모델 아키텍처: Why MMT-S?
