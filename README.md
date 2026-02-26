@@ -73,6 +73,9 @@ CPU 환경에서도 실시간 추론이 가능한 속도를 확보했습니다.
 
 ### 1. 신뢰도 기반 안전성 분석
 
+<img width="459" height="460" alt="image" src="https://github.com/user-attachments/assets/97c86dc6-46c5-45bd-b0ff-8fdf83771094" />
+
+
 * **Danger 미검출 0%**: 실제 Danger 상황을 Normal로 판단한 사례는 **0건**으로, 현장의 치명적 사고 방지율 100% 달성.
 * **보수적 오탐 (False Alarm)**: 정상을 위험으로 판단한 30건(0.6%)은 센서 노이즈에 의한 일시적 현상이며, 이는 현장의 안전을 최우선으로 고려한 **보수적 설계**의 결과임.
 * **확신 지표**: 모델 신뢰도(Confidence) 0.9 이상의 구간에서는 정확도 99%를 기록하여 알람의 신뢰성 입증.
@@ -84,7 +87,8 @@ CPU 환경에서도 실시간 추론이 가능한 속도를 확보했습니다.
 
 ## ⭐ 실시간(가정) 모니터링 대시보드 웹 구현
 
-링크 및 시연 이미지나 영상 추가 예정...
+<img width="776" height="448" alt="image" src="https://github.com/user-attachments/assets/99146da0-0434-424c-93c6-93cede9f93cc" />
+
 
 ## 📍 향후 개선 방향 (Roadmap)
 
