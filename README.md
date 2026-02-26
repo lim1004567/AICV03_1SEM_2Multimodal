@@ -59,7 +59,8 @@ https://www.aihub.or.kr/aihubdata/data/view.do?pageIndex=1&currMenu=115&topMenu=
 
 ### 1. 성능개선 및 정량적 지표 (Paper vs Ours)
 
-<img width="809" height="461" alt="image" src="https://github.com/user-attachments/assets/842d8bf7-f2a5-43c3-a2b2-dded5319ea5a" />
+<img width="1004" height="570" alt="image" src="https://github.com/user-attachments/assets/1ae68ffd-0580-45eb-b519-1c856bc32a10" />
+
 <img width="810" height="457" alt="image" src="https://github.com/user-attachments/assets/9b8f2aaa-90b1-41dc-a4c6-0cae066acbe6" />
 
 
