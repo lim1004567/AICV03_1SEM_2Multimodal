@@ -61,7 +61,8 @@ https://www.aihub.or.kr/aihubdata/data/view.do?pageIndex=1&currMenu=115&topMenu=
 
 <img width="1004" height="570" alt="image" src="https://github.com/user-attachments/assets/1ae68ffd-0580-45eb-b519-1c856bc32a10" />
 
-<img width="810" height="457" alt="image" src="https://github.com/user-attachments/assets/9b8f2aaa-90b1-41dc-a4c6-0cae066acbe6" />
+<img width="1004" height="570" alt="image" src="https://github.com/user-attachments/assets/f0b10851-d859-4a7c-8c45-f987ced8767f" />
+
 
 
 논문 수치(SOTA)와 베이스라인을 모두 상회하는 고득점을 기록했습니다.
